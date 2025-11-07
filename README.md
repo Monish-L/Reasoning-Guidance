@@ -6,8 +6,7 @@
 
 > **Master's Thesis** | San José State University | Department of Computer Engineering  
 > **Author:** Monish Sai Lakamraju  
-> **Advisors:** Dr. KaiKai Lui, Dr. Bernardo Flores, Dr. Mahima Agumbe Suresh  
-> **Defense Date:** December 2025
+
 
 ---
 
@@ -584,4 +583,5 @@ If you use this code or findings in your research, please cite:
 <p align="center">
   <strong>Built with ❤️ at San José State University</strong>
 </p>
+
 
