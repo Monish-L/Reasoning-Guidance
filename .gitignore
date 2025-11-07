@@ -1,0 +1,11 @@
+models/
+*.bin
+*.pt
+*.pth
+__pycache__/
+*.pyc
+ckpts/
+logs/
+wandb/
+.DS_Store
+.env
