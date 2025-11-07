@@ -551,21 +551,14 @@ for temp in TEMPERATURES:
 
 - **Hardware:** 8× NVIDIA A100 80GB GPUs
 - **Memory:** ~640GB GPU RAM (ZeRO-3 sharding)
-- **Time:** ~16 minutes per training run
-- **Cost:** ~$30 on Lambda Labs
+
 
 ### Inference
 
 - **Hardware:** 8× NVIDIA A100 80GB GPUs
 - **Memory:** ~60GB GPU RAM (tensor parallelism)
-- **Throughput:** ~250 samples/minute (batch size 256)
-- **Latency:** ~2 seconds per sample
 
-### Stage 1 Data Generation
 
-- **API Calls:** ~30k (5k samples × 6 prompts)
-- **Cost:** ~$150 (GPT-4o + GPT-5)
-- **Time:** ~4 hours
 
 ---
 
@@ -591,3 +584,4 @@ If you use this code or findings in your research, please cite:
 <p align="center">
   <strong>Built with ❤️ at San José State University</strong>
 </p>
+
